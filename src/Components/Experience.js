@@ -183,7 +183,7 @@ const Experience = () => {
                                     <p class="description new-line text-left">
                                         •	E-commerce Android App using Android Studio, Java, and Firebase realtime database. Work in progress. <a href="https://github.com/prakharr0/MyApp" target="_blank" className="nav-link">Tap here: Visit on Github</a>
                                         •	E-commerce Web App using ReactJS and Firebase realtime database. Work in progress. <a href="https://github.com/prakharr0/Ecomm-ReactJS/tree/master" target="_blank" className="nav-link">Tap here: Visit on Github</a>
-                                        •	Java code to convert Relaxed JSON file to CSV. <a href="https://github.com/prakharr0/RelaxedJSONtoCSV" target="_blank" className="nav-link">Visit on Github</a>
+                                        •	Java code to convert Relaxed JSON file to CSV. <a href="https://github.com/prakharr0/RelaxedJSONtoCSV" target="_blank" className="nav-link">Tap here: Visit on Github</a>
                                     </p>
                                 </div>
                             </div>
