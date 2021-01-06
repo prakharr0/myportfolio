@@ -1,0 +1,61 @@
+.skills-box {
+  color: black !important;
+  background-color: rgb(179, 219, 255) !important;
+}
+
+.skills {
+  box-shadow: none !important;
+}
+
+.card-title {
+  font-size: 2rem;
+}
+.icon-bg-prog {
+  background-color: #e84c47 !important;
+}
+*/ .icon-bg-prog {
+  background-color: #e84c47 !important;
+  text-transform: uppercase;
+  border-radius: 6px;
+}
+
+.card:hover {
+  background-color: rgb(79, 176, 241) !important;
+}
+
+.icon-bg-web {
+  background-color: #4bd9bf !important;
+  text-transform: uppercase;
+}
+
+.icon-bg-data {
+  background-color: #ff9e09 !important;
+  text-transform: uppercase;
+}
+
+.icon-bg-tools {
+  background-color: #0166eb !important;
+  text-transform: uppercase;
+}
+
+.icon-bg-os {
+  background-color: #ff00d4 !important;
+  text-transform: uppercase;
+}
+
+.icon-bg-soft {
+  background-color: #00b8b8 !important;
+  text-transform: uppercase;
+}
+
+@media (max-width: 991.98px) {
+  .card-title {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .card-title {
+    font-size: 1.3rem;
+  }
+}
