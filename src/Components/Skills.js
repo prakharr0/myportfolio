@@ -26,7 +26,7 @@ const Skills = () => {
                 <div class="row mt-5 pb-5">
                     <div class="col-lg-4 py-2">
                         <div class="card h-100 skills-box">
-                            <div className="icon-bg-os text-center py-1"><FontAwesomeIcon icon={faLaptopCode} size="2x" /></div>
+                            <div className="icon-bg-prog text-center py-1"><FontAwesomeIcon icon={faLaptopCode} size="2x" /></div>
                             <div className="card-body">
                                 <div className="card-title text-center">Programming</div>
                                 <div className="card-text text-center">
