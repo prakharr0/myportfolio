@@ -10,10 +10,8 @@
 .card-title {
   font-size: 2rem;
 }
+
 .icon-bg-prog {
-  background-color: #e84c47 !important;
-}
-*/ .icon-bg-prog {
   background-color: #e84c47 !important;
   text-transform: uppercase;
   border-radius: 6px;
