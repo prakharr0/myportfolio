@@ -27,6 +27,9 @@ const Contact = () => {
                         {'\n'}
                         I am interested to work in the following areas:
                         <ol className="list-group">
+                            
+                            <li className="list-group-item container" >Web Application Development</li>
+                            <li className="list-group-item container" >Android Application Development</li>
                             <li className="list-group-item container">Machine Learning</li>
                             <li className="list-group-item container">Deep Learning</li>
                             <li className="list-group-item container" >Full Stack Development</li>
