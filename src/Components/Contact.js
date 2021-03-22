@@ -2,8 +2,8 @@ import { faGithub, faLinkedin, faTwitter, faWhatsapp, faWordpress } from '@forta
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import { MdFontDownload } from 'react-icons/md';
 import '../My_Css/Contact.css';
+import myResume from "../assets/resume/Resume.pdf";
 
 const Contact = () => {
     const [state] = React.useState({
@@ -20,9 +20,14 @@ const Contact = () => {
 
             <div className="container contact">
                 <h3 className="mt-5">Hello Again!</h3>
+                
                 <p className="new-line">
                         {'\n'}
-                        I hope you were able to collect the required amount of information about me through this website. 
+                        I hope you were able to collect the required amount of information about me through this website.
+                       {'\n'}
+                        <a className = "nav-link pb-0" href={myResume} download="Resume-Prakhar Rathi">
+                        Click here to download my resume.
+                        </a> 
                         {'\n'}
                         {'\n'}
                         I am interested to work in the following areas:
