@@ -36,7 +36,11 @@ const Skills = () => {
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 mr-2">OOPs</span>
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Android</span>
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 ml-2 my-1 mr-2">Docker</span>
-                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Data Mining</span>    
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Data Mining</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Git</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">GitLab CI/CD</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Maven</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Spring-boot</span>
                                 </div>
                             </div>
                         </div>
@@ -52,7 +56,6 @@ const Skills = () => {
                                 <span className="badge badge-pill badge-dark icon-bg-web py-2 my-2 ml-2 mr-2">CSS</span>
                                 <span className="badge badge-pill badge-dark icon-bg-web py-2 my-2 ml-2 mr-2">ReactJS</span>
                                 <span className="badge badge-pill badge-dark icon-bg-web py-2 my-2 mr-2">NodeJS</span>
-                                <span className="badge badge-pill badge-dark icon-bg-web py-2 my-2 ml-2 mr-2">Spring-boot</span>
                                 <span className="badge badge-pill badge-dark icon-bg-web py-2 ml-2 my-1 mr-2">REST API</span>    
                              </div>
                             </div>
@@ -67,8 +70,10 @@ const Skills = () => {
                                     <div className="card-text text-center">
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">DDL</span>
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">DML</span>
-                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">SQL</span>
-                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">RDBMS</span>    
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">SQL Queries</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">MySQL db</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">NoSQL db</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">RDBMS</span>
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">MySQL-Workbench</span>    
                                 </div>
                             </div>
@@ -87,6 +92,7 @@ const Skills = () => {
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 mr-2">IntelliJ Idea</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">VS-Code</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 ml-2 my-1 mr-2">Spyder</span>
+                                        <span className="badge badge-pill badge-dark icon-bg-tools py-2 ml-2 my-1 mr-2">PyCharm</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">VMWare</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Virtualbox</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Github</span>
@@ -126,7 +132,7 @@ const Skills = () => {
                                 <div className="card-title text-center">Languages</div>
                                 <div className="card-text text-center">
                                     <span className="badge badge-pill badge-dark icon-bg-soft py-2 my-2 ml-2 mr-2">English : Fluent</span>
-                                    <span className="badge badge-pill badge-dark icon-bg-soft py-2 my-2 ml-2 mr-2">German : A2.1</span>   
+                                    <span className="badge badge-pill badge-dark icon-bg-soft py-2 my-2 ml-2 mr-2">German : B1</span>
                                 </div>
                             </div>
                         </div>

@@ -25,12 +25,31 @@ const Experience = () => {
                 <div class="row py-3">
                     <div class="col-md-12">
                         <div class="main-timeline">
-                        <div class="timeline">
+
+
+                            <div className="timeline">
+                                <div className="timeline-content">
+                                    <div className="timeline-icon">
+                                        <FontAwesomeIcon icon={faBriefcase}/>
+                                    </div>
+                                    <h3 className="title">Role: Wissenschaftliche Hilfskraft</h3>
+                                    <h5>Fraunhofer IEM, Paderborn, Germany</h5>
+                                    <h6>05/2021 - till date</h6>
+                                    <p className="description new-line text-left">
+                                        • Programming tasks using Java, Python, JDBC, Sring Boot, Maven, Docker. {'\n'}
+                                        • Database Management and Manipulation using MySQL. {'\n'}
+                                        • UI Development using HTML and CSS. {'\n'}
+                                        • Developing and maintaining GitLab CI/CD.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="timeline">
                                 <div class="timeline-content">
                                     <div class="timeline-icon">
                                         <FontAwesomeIcon icon={faBriefcase}/>
                                     </div>
-                                    <h3 class="title">Job: Project Engineer</h3>
+                                    <h3 class="title">Role: Project Engineer</h3>
                                     <h5>Wipro Ltd., Bengaluru, India</h5>
                                     <h6>07/2018 - 02/2019</h6>
                                     <p class="description new-line text-left">

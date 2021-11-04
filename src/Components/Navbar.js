@@ -5,7 +5,8 @@ const Navbar = () => {
     return (
         
 	<nav className="navbar bg-light navbar-light navbar-expand-lg sticky-top">
-		<div className="container">
+		<div className="container-fluid">
+			<div className="container">
 			<a href="#header" className="navbar-brand nav-link"><p>Prakhar Rathi</p></a>
 
 			<button className="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarResponsive">
@@ -19,8 +20,10 @@ const Navbar = () => {
                     <li className="nav-item"><a href="#skills-me" className="nav-link">SKILLS</a></li>
 					<li className="nav-item"><a href="#experience-me" className="nav-link">EXPERIENCE</a></li>
 					<li className="nav-item"><a href="#contact-me" className="nav-link">CONTACT</a></li>
+					<li className="nav-item"><a href="#contact-me" className="nav-link">CV</a></li>
 				</ul>
 			</div>
+		</div>
 		</div>
 	</nav>
     
