@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <div className="header-wrapper" id="header">
             <div className="main-info">
-                <h1>M.Sc. - Computer Science (Student)</h1>
-                <Typed className="typed-text" 
+                <h1>Software Engineer</h1>
+                <Typed className="typed-text"
                 strings={["Java", "Spring Boot", "Web Development", "Android Application Development" , "Full Stack Development", "Python", "Natural Language Processing", "Machine Learning", "and much more..."]}
                 typeSpeed={40}
                 backSpeed={60}

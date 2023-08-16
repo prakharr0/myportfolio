@@ -26,20 +26,39 @@ const Experience = () => {
                     <div class="col-md-12">
                         <div class="main-timeline">
 
-
                             <div className="timeline">
                                 <div className="timeline-content">
                                     <div className="timeline-icon">
                                         <FontAwesomeIcon icon={faBriefcase}/>
                                     </div>
-                                    <h3 className="title">Role: Wissenschaftliche Hilfskraft</h3>
-                                    <h5>Fraunhofer IEM, Paderborn, Germany</h5>
-                                    <h6>05/2021 - till date</h6>
+                                    <h3 className="title">Software Engineer</h3>
+                                    <h3 className={"title"}>Aerospace-Ground Technology</h3>
+                                    <h5>CS Group, Darmstadt</h5>
+                                    <h6>05/2022 - till date</h6>
                                     <p className="description new-line text-left">
-                                        • Programming tasks using Java, Python, JDBC, Sring Boot, Maven, Docker. {'\n'}
-                                        • Database Management and Manipulation using MySQL. {'\n'}
-                                        • UI Development using HTML and CSS. {'\n'}
-                                        • Developing and maintaining GitLab CI/CD.
+                                        • Developing <a target={"_blank"} href={"https://c-ssystems.de/ground-station-monitoring-and-control-systems-for-estrack/"}>GSMC-CC</a>. {'\n'}
+                                        • Programming various Java OSGi components on top of <a href={"http://www.egscc.esa.int/"} target={"_blank"}>EGS-CC</a> kernel. {'\n'}
+                                        • Supported a new team member during their training. {'\n'}
+                                        • Coded synchronized deployment of GSMC-CC on multiple machines. {'\n'}
+                                        • Demonstrated and presented GSMC-CC and individual components on various occasions. {'\n'}
+                                        • Tech Stack: Java, OSGi Framework, JAXB, XML, XSD, Groovy, Shell scripts, Docker, Grafana.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="timeline">
+                                <div className="timeline-content">
+                                    <div className="timeline-icon">
+                                        <FontAwesomeIcon icon={faBriefcase}/>
+                                    </div>
+                                    <h3 className="title">Wissenschaftliche Hilfskraft</h3>
+                                    <h5>Fraunhofer IEM, Paderborn, Germany</h5>
+                                    <h6>05/2021 - 03/2022</h6>
+                                    <p className="description new-line text-left">
+                                        • Developed a user-centric full-stack web application with the team. {'\n'}
+                                        • Containerized the application and MySQL database using docker. {'\n'}
+                                        • Coordinated software documentation of implemented features and vulnerabilities. {'\n'}
+                                        • Tech. stack: Java, Spring Boot, REST API, Junit, Mockito, SQL queries, MySQL database, Java
+                                        Persistence API (JPA), Thymeleaf, HTML, CSS, Shell scripts, Python, Docker, Git, GitLab CI Pipeline.
                                     </p>
                                 </div>
                             </div>
@@ -49,13 +68,13 @@ const Experience = () => {
                                     <div class="timeline-icon">
                                         <FontAwesomeIcon icon={faBriefcase}/>
                                     </div>
-                                    <h3 class="title">Role: Project Engineer</h3>
+                                    <h3 class="title">Project Engineer</h3>
                                     <h5>Wipro Ltd., Bengaluru, India</h5>
                                     <h6>07/2018 - 02/2019</h6>
                                     <p class="description new-line text-left">
                                         •	Programming tasks using Java, JDBC, Python, etc. {'\n'}
                                         •	Database Management and Manipulation using MySQL. {'\n'}
-                                        •  	Weekly reports and presentations using MS-Excel, MS-Word, and MS-PowerPoint.
+                                        •  	Tech. stack: Java, JavaScript, Android, HTML, CSS, Python, REST API, MySQL.
                                     </p>
                                 </div>
                             </div>

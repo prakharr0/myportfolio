@@ -11,7 +11,7 @@ const AboutMe = () => {
 
     const [state] = React.useState({
         subHeading: 'Introduction' , 
-        text : 'Hello visitor! Welcome to my Website. \n \n My name is Prakhar Rathi and I am a student of Master in Science in Computer Science. I am pursuing my master studies at the Paderborn University in Germany (Universität Paderborn). \n I am passionate about Programming, Full-Stack Development, Natural Language Processing, Machine Learning, among other areas of Computer Science. I also write poetry in Hindi as a hobby. \n Tap on the links below to connect with me on social media. Continue on this website to learn more about me. Have a good day.'
+        text : 'Hello visitor! Welcome to my Website. \n \n My name is Prakhar Rathi and I am a Software Engineer, currently employed at CS Group in Darmstadt and working on Aerospace-Ground technology. \n I am passionate about Programming, Full-Stack Development, Natural Language Processing, Machine Learning, among other areas of Computer Science. I also write poetry in Hindi as a hobby. \n Tap on the links below to connect with me on social media. Continue on this website to learn more about me. Have a good day.'
     })
 
     return (

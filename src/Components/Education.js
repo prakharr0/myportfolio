@@ -29,7 +29,7 @@ const Education = () => {
                                 <h3 className="title text-center">M.Sc. - Computer Science</h3>
                                 <div className="border-top border-dark w-80 "></div>
                                 <p className="description new-line mt-3">
-                                    University  :  Universität Paderborn, Germany {'\n'} Duration  : Since 2019
+                                    University  :  Universität Paderborn, Germany {'\n'} Duration  : 2019 - 2022
                                 </p>
                             </a>
                         </div><div className="timeline">

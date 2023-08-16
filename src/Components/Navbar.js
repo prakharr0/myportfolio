@@ -1,5 +1,6 @@
 import React from 'react'
 import '../My_Css/Navbar.css'
+import CV from '../assets/resume/CV_Prakhar_Rathi.pdf'
 
 const Navbar = () => {
     return (
@@ -20,7 +21,7 @@ const Navbar = () => {
                     <li className="nav-item"><a href="#skills-me" className="nav-link">SKILLS</a></li>
 					<li className="nav-item"><a href="#experience-me" className="nav-link">EXPERIENCE</a></li>
 					<li className="nav-item"><a href="#contact-me" className="nav-link">CONTACT</a></li>
-					<li className="nav-item"><a href="#contact-me" className="nav-link">CV</a></li>
+					<li className="nav-item"><a target={"_blank"} href={CV} className="nav-link">CV</a></li>
 				</ul>
 			</div>
 		</div>
