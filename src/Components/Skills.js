@@ -41,6 +41,8 @@ const Skills = () => {
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">GitLab CI/CD</span>
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Maven</span>
                                     <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Spring-boot</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Swift</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-prog py-2 my-2 ml-2 mr-2">Flutter</span>
                                 </div>
                             </div>
                         </div>
@@ -74,8 +76,9 @@ const Skills = () => {
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">MySQL db</span>
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">NoSQL db</span>
                                     <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">RDBMS</span>
-                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">MySQL-Workbench</span>    
-                                </div>
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 ml-2 mr-2">JDBC</span>
+                                    <span className="badge badge-pill badge-dark icon-bg-data py-2 my-2 mr-2">JPA/Hibernate</span>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -93,11 +96,11 @@ const Skills = () => {
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">VS-Code</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 ml-2 my-1 mr-2">Spyder</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 ml-2 my-1 mr-2">PyCharm</span>
-                                        <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">VMWare</span>
-                                        <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Virtualbox</span>
+                                        <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">JIRA</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Github</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Confluence</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">Trello</span>
+                                        <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">MySQL-Workbench</span>
                                         <span className="badge badge-pill badge-dark icon-bg-tools py-2 my-2 ml-2 mr-2">MS-Office</span>    
                                    </div>
                             </div>
@@ -111,7 +114,8 @@ const Skills = () => {
                                 <div className="card-title text-center">Operating Systems</div>
                                     <div className="card-text text-center">
                                         <span className="badge badge-pill badge-dark icon-bg-os py-2 my-2 ml-2 mr-2">Windows</span>
-                                        <span className="badge badge-pill badge-dark icon-bg-os py-2 my-2 ml-2 mr-2">Linux (Ubuntu)</span> 
+                                        <span className="badge badge-pill badge-dark icon-bg-os py-2 my-2 ml-2 mr-2">Ubuntu</span>
+                                        <span className="badge badge-pill badge-dark icon-bg-os py-2 my-2 ml-2 mr-2">OpenSUSE</span>
                                     </div>
                             </div>
                         </div>
